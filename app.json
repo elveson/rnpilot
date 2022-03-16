@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "rnpilot",
+    "slug": "rnpilot",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "rnpilot"
+}
